@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Successfully Restored on 1412968487576</comment>
+<entry key="db.password">root</entry>
+<entry key="keyboard.show">false</entry>
+<entry key="alert.lowstock">true</entry>
+<entry key="alert.outofstock">true</entry>
+<entry key="currency.format">#,###.00</entry>
+<entry key="db.username">root</entry>
+<entry key="allow.holdrecall">true</entry>
+<entry key="db.library">mysql-connector-java-5.1.23-bin.jar</entry>
+<entry key="path.temp"/>
+<entry key="db.classname">com.mysql.jdbc.Driver</entry>
+<entry key="cash.drawer"/>
+<entry key="tax.format">pre-tax</entry>
+<entry key="print.paymodeid">false</entry>
+<entry key="db.database">MySQL(Connector/J Driver)</entry>
+<entry key="discount.item">false</entry>
+<entry key="print.upc">true</entry>
+<entry key="run.zout">true</entry>
+<entry key="printer.name"/>
+<entry key="opendrawer.endsale">true</entry>
+<entry key="screen.startfull">false</entry>
+<entry key="time.format">hh:mm</entry>
+<entry key="system.locale">English (UK)</entry>
+<entry key="discount.overall">false</entry>
+<entry key="db.host">jdbc:mysql://localhost:3306/pos</entry>
+<entry key="currency.name">Kenya - Kenyan Shilling -KSh</entry>
+<entry key="date.format">dd/mm/yyyy</entry>
+</properties>
